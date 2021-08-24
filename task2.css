@@ -1,0 +1,118 @@
+.navbar-logo {
+    height: 80px;
+    width: 100px;
+}
+
+.navbar-background {
+    background-color: white;
+}
+
+.navbar-link {
+    background-color: aliceblue;
+    border-radius: 10px;
+    margin-right: 20px;
+}
+
+.navbar-link:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+
+.homeSection-image {
+    height: 70vh;
+    width: 50vw;
+    background-size: cover;
+}
+
+.homeSection-container {
+    background-image: linear-gradient(white, #2e2c2c);
+    text-align: center;
+    color: white;
+    height: 70vh;
+    width: 50vw;
+}
+
+.homeSection-heading {
+    font-size: 24px;
+    font-weight: 700;
+    padding-top: 30px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.homeSection-paragraph {
+    font-size: 16px;
+    font-weight: 300;
+    padding-bottom: 30px;
+    text-align: left;
+    padding-left: 20px;
+}
+
+.footerSection-image {
+    height: 25px;
+    width: 25px;
+    margin-right: 10px;
+}
+
+.footerSection-container {
+    padding: 15px;
+    margin: 15px;
+    height: 5vh;
+}
+
+.footerSection-paragraph {
+    font-size: 10px;
+}
+
+.eachUser-container {
+    background-image: linear-gradient(#d8e3e6, #7a7e80);
+    border-radius: 15px;
+    text-align: center;
+    height: 44vh;
+    width: 20vw;
+    margin: 20px;
+    margin-left: 40%;
+    color: white;
+    padding: 10px;
+}
+
+.imageElement-image {
+    height: 120px;
+    width: 120px;
+    border-radius: 50px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.image-name {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.image-mail {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.image-id {
+    font-size: 14px;
+    font-weight: 600;
+}
+
+.backBtn {
+    height: 40px;
+    width: 90px;
+    margin-left: 20px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+.heading {
+    font-size: 32px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    margin-left: 30px;
+}
